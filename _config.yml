@@ -1,0 +1,21 @@
+# Dependencies
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Rapi.ca Blog
+tagline:          ramble on
+description:      First blog, maybe last
+paginate:         4
+baseurl:          /
+
+author:
+  name:           Ann Onymouse
+  url:            http://rapi.ca
+
+# Custom vars
+version:          0.0.0b
+github:
+  repo:           https://github.com/nikolasc
