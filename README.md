@@ -1,4 +1,4 @@
 nikolasc.github.io
 ==================
 
-Rapi.ca blog
+blog.Rapi.ca hosted on github, using git-pages
