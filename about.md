@@ -2,10 +2,8 @@
 layout: page
 title: About
 ---
-## A Heading without any space after it 
-Enclosed with P tags, classed "message", so probably formatted as a message.
+## Why?
+I wanted to test the [Jekyll](http://jekyllrb.com) blogging gem, and I have never published a blog before (better late than never), so _why not_? I suppose that is **about** it.
+
+But don't worry it probably won't last long, and may not get many posts, so it will probably get lost in the never-ending flow of bits we call The Internet...
 {: .message}
-
-### This is what an h3 heading will render
-
-And some more body text under the h3 heading, one blank line between.
